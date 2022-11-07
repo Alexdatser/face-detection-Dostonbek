@@ -15,3 +15,6 @@ https://github.com/Alexdatser/face-detection-Dostonbek/blob/main/DostonMid/my%20
 ### Code of python for face detection
 
 https://github.com/Alexdatser/face-detection-Dostonbek/blob/main/DostonMid/my%20face/facedetection.py
+
+### Dataset for the project
+https://github.com/Alexdatser/face-detection-Dostonbek/tree/main/DostonMid/my%20face
